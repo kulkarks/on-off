@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import court from './suns_court.jpg';
+import court from './courts/suns.jpg';
 import './App.css';
 
 class App extends Component {
